@@ -1,0 +1,6 @@
+computer,19z303
+discrete,19z304
+data,19z302
+linear,19z301
+oop,19z305
+economics,19o306
